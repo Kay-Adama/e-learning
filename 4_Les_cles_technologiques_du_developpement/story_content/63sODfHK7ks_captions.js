@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.65.28121.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:04.000%0D%0AL%E2%80%99information%20transite%20vers%20le%20cerveau.%0D%0AIl%20s%E2%80%99agit%20d%E2%80%99un%20message%20d%E2%80%99entr%C3%A9e.%0D%0A%0D%0A"}')

@@ -1,0 +1,28 @@
+.card {
+    width: fit-content;
+    background-color: darkgray;
+    padding-bottom: 10px;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+}
+
+.titleCard {
+    color: #2f6e96;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+}
+
+.textLink {
+    color: #2f6e96;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.textLink:hover{
+    text-decoration: underline;
+}

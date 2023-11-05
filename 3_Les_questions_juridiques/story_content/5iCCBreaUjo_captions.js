@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.65.28121.0%0D%0A%0D%0A00:00:00.000%20--%3E%2000:00:04.755%0D%0ALe%20conducteur%20peut%20d%C3%A9l%C3%A9guer%20la%20conduite%20au%20v%C3%A9hicule%20dans%20certains%20cas%20d%E2%80%99usage%20d%C3%A9finis.%20%0D%0A%0D%0A"}')

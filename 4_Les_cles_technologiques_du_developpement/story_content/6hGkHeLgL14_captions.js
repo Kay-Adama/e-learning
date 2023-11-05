@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.65.28121.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:03.160%0D%0AD%C3%A9couvrez%20comment%20un%20v%C3%A9hicule%20per%C3%A7oit%20son%20environnement%20%0D%0A%0D%0A"}')

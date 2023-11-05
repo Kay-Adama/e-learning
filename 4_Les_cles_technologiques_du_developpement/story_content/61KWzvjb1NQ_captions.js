@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.65.28121.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:04.000%0D%0ASon%20cerveau%20lui%20permet%20d%E2%80%99analyser%20et%20de%20d%C3%A9cider%20des%20actions%20%C3%A0%20entreprendre.%20%0D%0A%0D%0A"}')
