@@ -1,0 +1,62 @@
+{
+  "version": "3.54.25674.0",
+  "course_id": "5iNsOdik2ZE_course_id",
+  "title": "Identifier les éléments présents dans la schématique électrique 4",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6lmEO5qlSmH",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "62hVFPDPo2c",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6BnpFe3hNiX",
+      "title": "Choisir une réponse",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5c6gG5wVhaJ",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6EA2uQlHBk2",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5yASUA0J62Q",
+      "title": "Choisir une réponse",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6he4tBu5dxK",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5l2LT2YBQkk",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 366
+  },
+  "stage": {
+    "width": 720,
+    "height": 346
+  }
+}

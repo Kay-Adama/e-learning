@@ -1,0 +1,62 @@
+{
+  "version": "3.54.25674.0",
+  "course_id": "6aUCF0OIe6V_course_id",
+  "title": "Classez ces différents outils de mesure par famille",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "63bmUsYNHWw",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6h04KQ9V9tI",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6illC0k6Vwj",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5YXDHx8cHbA",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5iknw6m3U0m",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5ymynCG8opZ",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5YDVQQeKNw3",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6CT8dSDMx2c",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 366
+  },
+  "stage": {
+    "width": 720,
+    "height": 346
+  }
+}

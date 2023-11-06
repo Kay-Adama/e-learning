@@ -1,0 +1,42 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "5vRfcPwqfP0_course_id",
+  "title": "oscilloscope",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5eKPD5BNkv7",
+      "title": "Choisir une réponse",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6TD31p159Ra",
+      "title": "Choisir une réponse",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6IwcCfM8stp",
+      "title": "Choisir une réponse",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5mJs3LPaW92",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 416
+  },
+  "stage": {
+    "width": 720,
+    "height": 396
+  }
+}

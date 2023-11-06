@@ -1,7 +1,7 @@
 .card {
     width: fit-content;
     background-color: darkgray;
-    padding-bottom: 10px;
+    margin: 0 10px 10px 10px;
 }
 
 .center{
@@ -13,6 +13,7 @@
     color: #2f6e96;
     font-family: 'Poppins',sans-serif;
     font-weight: 400;
+    text-align: center;
 }
 
 .textLink {

@@ -1,0 +1,27 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "6ALsuUTNLLp_course_id",
+  "title": "Complétez le texte suivant à l’aide des mots à gauche de votre écran",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6S8J5gMUdun",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 440
+  },
+  "stage": {
+    "width": 720,
+    "height": 420
+  }
+}

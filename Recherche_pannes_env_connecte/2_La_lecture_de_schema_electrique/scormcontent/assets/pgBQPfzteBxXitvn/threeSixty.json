@@ -1,0 +1,27 @@
+{
+  "version": "3.54.25674.0",
+  "course_id": "5wYJiKVPJKt_course_id",
+  "title": "Identifier les éléments présents dans la schématique électrique 3",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6S8J5gMUdun",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 360
+  },
+  "stage": {
+    "width": 720,
+    "height": 340
+  }
+}

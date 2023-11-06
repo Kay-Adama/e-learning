@@ -1,0 +1,37 @@
+{
+  "version": "3.54.25674.0",
+  "course_id": "6Zacuzi0V4k_course_id",
+  "title": "Mesurer une intensité",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "final"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6ma8h9ZZoYO",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5gX1dEPkOkK",
+      "title": "Choisir une réponse",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Enq0bWx5bu",
+      "title": "Choisir une réponse",
+      "scene_index": "1.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 366
+  },
+  "stage": {
+    "width": 720,
+    "height": 346
+  }
+}

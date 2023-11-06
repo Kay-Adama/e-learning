@@ -1,0 +1,27 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "61kWQWEsDPi_course_id",
+  "title": "Mesurer une résistance",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "final"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5gX1dEPkOkK",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 366
+  },
+  "stage": {
+    "width": 720,
+    "height": 346
+  }
+}
